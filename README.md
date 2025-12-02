@@ -13,3 +13,5 @@ Then you can start running gradio by:
 ```bash
 python main.py
 ```
+
+Any abuse or violation on academic information / application of PhD is not encouraged.
